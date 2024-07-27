@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Shukla</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.hubspot.com%2Fwebsite%2Fhow-to-start-coding&psig=AOvVaw2eGa_G06_Vla5WupBU8nJ5&ust=1722171299381000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCG3ZWix4cDFQAAAAAdAAAAABAJ>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markownikov&label=Profile%20views&color=0e75b6&style=flat" alt="markownikov" /> </p>
