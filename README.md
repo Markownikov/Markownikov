@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishnu Shukla</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-
+![images](https://github.com/user-attachments/assets/93701274-8966-459f-be2f-79081a4ba919)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markownikov&label=Profile%20views&color=0e75b6&style=flat" alt="markownikov" /> </p>
 
