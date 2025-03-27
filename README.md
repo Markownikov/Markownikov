@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markownikov" alt="markownikov" /></a> </p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1md1rWs8lJ1uzHTs-xaTnGoOheD7lw1Kg/view?usp=drive_link](https://drive.google.com/file/d/1tytL91QzFykEQrqeg7XJx4klwnRhW7Di/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1md1rWs8lJ1uzHTs-xaTnGoOheD7lw1Kg/view?usp=drive_link](Vishnu_Shukla)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
